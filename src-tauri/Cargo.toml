@@ -1,6 +1,6 @@
 [package]
 name = "Netflix"
-version = "1.0.1"
+version = "1.0.2"
 description = ""
 authors = ["1024xiaoshen"]
 edition = "2021"
